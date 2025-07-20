@@ -1,0 +1,24 @@
+{
+  "name": "first-ai-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --env-file=.env agent.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeetPatel3366/First-AI-Agent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MeetPatel3366/First-AI-Agent/issues"
+  },
+  "homepage": "https://github.com/MeetPatel3366/First-AI-Agent#readme",
+  "dependencies": {
+    "groq-sdk": "^0.27.0"
+  }
+}
